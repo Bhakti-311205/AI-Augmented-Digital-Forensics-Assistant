@@ -127,6 +127,9 @@ streamlit run app.py
 -🎤 Audio/video tampering detection via deep learning
 
 ---
+## 🔗 Demo Video
+Watch the full demo here: [https://youtu.be/zZeuESog7nQ]
+
 
 ## 📄 License
 
